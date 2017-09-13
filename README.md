@@ -47,7 +47,7 @@ $ go get -v github.com/jpillora/cloud-torrent
 
 [Digital Ocean](https://m.do.co/c/011fa87fde07)
 
-  1. [Sign up with free $10 credit](https://m.do.co/c/011fa87fde07)
+  1. Sign up on Digital Ocean
   2. "Create Droplet"
   3. "One-Click Apps"
   4. "Docker X.X.X on X.X"
